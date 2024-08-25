@@ -1,5 +1,6 @@
 
-# StudentRegistry Smart Contract
+# Attendify Chain
+## Student registery smart contract
 
 ![alt text](image-1.png)
 
